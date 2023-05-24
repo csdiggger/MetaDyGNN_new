@@ -5,3 +5,5 @@
 尚在学习 git 中
 
 但是直接拖拽少文件...
+
+有个文件几百兆 报错 Yowza, that’s a big file. Try again with a file smaller than 25MB.
